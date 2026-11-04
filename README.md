@@ -39,20 +39,11 @@ Soy **Ingeniero en Informática especializado en Ciencia y Análisis de Datos**.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad en la plataforma:
-
-![Estadísticas de GitHub](https://vercel.app)
-![Lenguajes más usados](https://vercel.app)
-
----
-
 ### 🤝 Contacto y Redes
 
 ¡Estoy abierto a nuevas oportunidades laborales, proyectos freelance y colaboraciones técnicas!
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com/nicolas-oses)
 - **Correo:** [oses.nicolas.alexander@gmail.com](mailto:oses.nicolas.alexander@gmail.com)
 - **Portafolio/GitHub:** [github.com/nicolasOsesP](https://github.com/nicolasOsesP)
 
