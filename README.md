@@ -30,12 +30,13 @@ Soy **Ingeniero en Informática especializado en Ciencia y Análisis de Datos**.
   * Integración de modelos de visión computacional en tiempo real (`YOLO`, `TensorFlow Lite`) para detección de obstáculos.
   * Arquitectura modular con backend en `FastAPI` y despliegue contenerizado con `Docker`.
 
-* **Microservicio Analítico de Encuestas**
-  * Desarrollo de un backend utilizando `FastAPI` e `IBM watsonx` para la generación de insights basados en Inteligencia Artificial a partir de datos empresariales.
+* **Australia Weather Dashboard & Rain Prediction (2008-2017)**
+  * Proyecto de análisis climático y modelamiento predictivo enfocado en las precipitaciones de Australia durante una década.
+  * Implementación de flujos de limpieza de datos, análisis exploratorio (EDA) y entrenamiento de modelos de Machine Learning para clasificación y predicción del clima.
 
-* **ERP para Ecomm-import**
-  * Sistema completo de administración de inventario, productos y ventas para una PYME.
-  * Construido con una arquitectura Full Stack robusta y ligera usando `Astro`, `FastAPI` y `SQLite`.
+* **Análisis de Retención de Clientes E-commerce (2019-2026)**
+  * Estudio y desarrollo de analítica avanzada orientada al comportamiento de compra y tasas de abandono en una plataforma de comercio electrónico.
+  * Creación de métricas de retención, segmentación de usuarios y visualizaciones dinámicas para identificar patrones clave en el ciclo de vida del cliente.
 
 ---
 
@@ -43,7 +44,7 @@ Soy **Ingeniero en Informática especializado en Ciencia y Análisis de Datos**.
 
 ¡Estoy abierto a nuevas oportunidades laborales, proyectos freelance y colaboraciones técnicas!
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com/nicolas-oses)
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/nicolas-oses)
 - **Correo:** [oses.nicolas.alexander@gmail.com](mailto:oses.nicolas.alexander@gmail.com)
 - **Portafolio/GitHub:** [github.com/nicolasOsesP](https://github.com/nicolasOsesP)
 
