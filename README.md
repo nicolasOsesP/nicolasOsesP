@@ -44,7 +44,7 @@ Soy **Ingeniero en Informática especializado en Ciencia y Análisis de Datos**.
 
 ¡Estoy abierto a nuevas oportunidades laborales, proyectos freelance y colaboraciones técnicas!
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/nicolas-oses)
+- **LinkedIn:** [linkedin.com/in/nicolas-oses](https://linkedin.com/in/nicolas-oses)
 - **Correo:** [oses.nicolas.alexander@gmail.com](mailto:oses.nicolas.alexander@gmail.com)
 - **Portafolio/GitHub:** [github.com/nicolasOsesP](https://github.com/nicolasOsesP)
 
